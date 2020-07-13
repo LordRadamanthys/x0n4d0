@@ -1,22 +1,17 @@
 
-<img align='right' width=400 src="https://user-images.githubusercontent.com/38081852/87235907-17dd4f80-c3b8-11ea-9480-e6d28dcab2b0.png">
+<img align='right' width=320 src="https://user-images.githubusercontent.com/38081852/87235907-17dd4f80-c3b8-11ea-9480-e6d28dcab2b0.png">
 
 ## Hi < Developers /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, 
 
-I'm **Maurício Romagnoli**.<br>
-I'm a **Computer Engineer Student** and **Security Enthusiast**.
+I'm a 🎓 **Computer Engineer Student**, 🔋 **Full Stack Developer** and **Security Enthusiast**.<br> I ❤️ **FrontEnd Development**, 🎨 **UI Design**, 🐧 **Linux**, 🤝 **Dev Community**, 🚧 **Open Source Projects** and ☕ **Coffee**.
+  
+  - 🔭 I’m currently working with **[TypeScript](https://www.typescriptlang.org/)** and **[React](https://reactjs.org/)**
+  - 🌱 I’m currently learning **UI Design** using **[Figma](https://www.figma.com/)** and **[React Native](https://reactnative.dev/)**
+  - 💬 Ask me about 🔋 tech, ☕ coffee, 🎶 music, 🎸 instruments, 🎮 CS:GO, 🧑‍🍳 cooking, 🛹 skateboard, 📚 books
+  - ❤️ I have many hobbies like: 🛹 skateboard, 🎸 play instruments, 🎶 listening to music all day, 📚 read books (especially those of psychology and fantasy), 🧑‍🍳 cook, 🎮 play CS:GO, 🌱 take care of the plants and 🌑 watch the moon
+  - 😄 Pronouns: he / him / his
+  - 😂 Fun fact: I can't program listening to the songs I love. For loving music so much
 
-<!-- 
-I ❤️ Linux, Open Source Projects, Dev Community and FrontEnd / Design! 😁
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact:  -->
 <!-- - **Portfolio:** x0n4d0.dev/portifolio -->
 <!-- - **Blog:** x0n4d0.dev/blog -->
 
