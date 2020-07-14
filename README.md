@@ -5,12 +5,12 @@
 
 I'm a 🎓 **Computer Engineer Student**, 🔋 **Full Stack Developer** and **Security Enthusiast**.<br> I ❤️ **FrontEnd Development**, 🎨 **UI Design**, 🐧 **Linux**, 🤝 **Dev Community**, 🚧 **Open Source Projects** and ☕ **Coffee**.
   
-  - 🔭 I’m currently working with **[TypeScript](https://www.typescriptlang.org/)** and **[React](https://reactjs.org/)**
-  - 🌱 I’m currently learning **UI Design** using **[Figma](https://www.figma.com/)** and **[React Native](https://reactnative.dev/)**
-  - 💬 Ask me about 🔋 tech, ☕ coffee, 🎶 music, 🎸 instruments, 🎮 CS:GO, 🧑‍🍳 cooking, 🛹 skateboard, 📚 books
-  - ❤️ I have many hobbies like: 🛹 skateboard, 🎸 play instruments, 🎶 listening to music all day, 📚 read books (especially those of psychology and fantasy), 🧑‍🍳 cook, 🎮 play CS:GO, 🌱 take care of the plants and 🌑 watch the moon
-  - 😄 Pronouns: he / him / his
-  - 😂 Fun fact: I can't program listening to the songs I love. For loving music so much
+  - 🔭 **I’m currently working with:** **[TypeScript](https://www.typescriptlang.org/)** and **[React](https://reactjs.org/)**
+  - 🌱 **I’m currently learning:** **UI Design** using **[Figma](https://www.figma.com/)** and **[React Native](https://reactnative.dev/)**
+  - 💬 **Ask me about:** 🔋 tech, ☕ coffee, 🎶 music, 🎸 instruments, 🎮 CS:GO, 🧑‍🍳 cooking, 🛹 skateboard, 📚 books
+  - ❤️ **Hobbies:** 🛹 skateboard, 🎸 play instruments, 🎶 listening to music all day, 📚 read books (especially those of psychology and fantasy), 🧑‍🍳 cook, 🎮 play CS:GO, 🌱 take care of the plants and 🌑 watch the moon
+  - 😄 **Pronouns:** he / him
+  - 😂 **Fun fact:** I can't program listening to the songs I love. For loving music so much
 
 <!-- - **Portfolio:** x0n4d0.dev/portifolio -->
 <!-- - **Blog:** x0n4d0.dev/blog -->
@@ -58,14 +58,10 @@ I'm a 🎓 **Computer Engineer Student**, 🔋 **Full Stack Developer** and **Se
 <img width=50 src="https://user-images.githubusercontent.com/38081852/86829802-3b786100-c06b-11ea-9290-94a373b50d6f.png">
 </a>
 
+[![HitCount](http://hits.dwyl.com/x0n4d0/x0n4d0.svg)](http://hits.dwyl.com/x0n4d0/x0n4d0) ![Followers](https://img.shields.io/github/followers/x0n4d0?style=social)
+
 </div>
 
 ---
 
 ⭐️ From [x0n4d0](https://github.com/x0n4d0)
-
-<div align=center>
-
-[![HitCount](http://hits.dwyl.com/x0n4d0/x0n4d0.svg)](http://hits.dwyl.com/x0n4d0/x0n4d0) ![Followers](https://img.shields.io/github/followers/x0n4d0?style=social)
-
-</div>
