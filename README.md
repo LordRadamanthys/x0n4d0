@@ -15,18 +15,24 @@ I'm a 🎓 **Computer Engineer Student**, 🔋 **Full Stack Developer** and **Se
 <!-- - **Portfolio:** x0n4d0.dev/portifolio -->
 <!-- - **Blog:** x0n4d0.dev/blog -->
 
-**Languages / Technologies:**
+**Languages / Technologies / Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/38081852/87239831-f8f7b100-c3e9-11ea-92df-5d7c8c4458d2.png"></code>
-<code><img height="24" src="https://user-images.githubusercontent.com/38081852/87240029-0f067100-c3ec-11ea-8075-74e821ece9c0.png"></code>
-<code><img height="24" src="https://user-images.githubusercontent.com/38081852/87240030-0f9f0780-c3ec-11ea-8370-829ea755b6e9.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/38081852/87240002-bcc55000-c3eb-11ea-8dcd-050031c509b4.png"></code>
-<code><img height="23" src="https://user-images.githubusercontent.com/38081852/87239904-ab2f7880-c3ea-11ea-8ec9-ed6d29129685.png"></code>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=x0n4d0&hide=["issues"]&show_icons=true)
+<code><img alt="JavaScript" title="JavScript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img alt="TypeScript" title="TypeScript" height="20" src="https://user-images.githubusercontent.com/38081852/87239831-f8f7b100-c3e9-11ea-92df-5d7c8c4458d2.png"></code>
+<code><img alt="CSS" title="CSS" height="24" src="https://user-images.githubusercontent.com/38081852/87240029-0f067100-c3ec-11ea-8075-74e821ece9c0.png"></code>
+<code><img alt="HTML" title="HTML" height="24" src="https://user-images.githubusercontent.com/38081852/87240030-0f9f0780-c3ec-11ea-8370-829ea755b6e9.png"></code>
+<code><img alt="React / React Native" title="React / React Native" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img alt="NodeJS" title="NodeJS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img alt="ExpressJS" title="ExpressJS" height="20" src="https://user-images.githubusercontent.com/38081852/87337501-eaa8b280-c519-11ea-8cdb-1af554f15374.png"></code>
+<code><img alt="JestJS" title="JestJS" height="20" src="https://user-images.githubusercontent.com/38081852/87337586-0f9d2580-c51a-11ea-9962-e374764d8b75.png"></code>
+<code><img alt="AdonisJS" title="AdonisJS" height="20" src="https://user-images.githubusercontent.com/38081852/87337696-3eb39700-c51a-11ea-9ded-84d06e925d88.png"></code>
+<code><img alt="ElectronJS" title="ElectronJS" height="20" src="https://user-images.githubusercontent.com/38081852/87337699-3eb39700-c51a-11ea-9702-566c72a887a6.png"></code>
+<code><img alt="GatsbyJS" title="GatsbyJS" height="20" src="https://user-images.githubusercontent.com/38081852/87337700-3f4c2d80-c51a-11ea-9bef-5cab8fabcb42.png"></code>
+<code><img alt="Bash" title="Shell Script Bash" height="20" src="https://user-images.githubusercontent.com/38081852/87240002-bcc55000-c3eb-11ea-8dcd-050031c509b4.png"></code>
+<code><img alt="C" title="C" height="23" src="https://user-images.githubusercontent.com/38081852/87239904-ab2f7880-c3ea-11ea-8ec9-ed6d29129685.png"></code>
+<code><img alt="Adobe Photoshop" title="Adobe Photoshop" height="20" src="https://user-images.githubusercontent.com/38081852/87336075-b2a07000-c517-11ea-91d6-291fc6341806.png"></code>
+<code><img alt="Figma" title="Figma" height="25" src="https://user-images.githubusercontent.com/38081852/87336309-03b06400-c518-11ea-9981-8b0b7c9d5ca8.png"></code>
+<code><img alt="Visual Studio Code" title="Visual Studio Code" height="25" src="https://user-images.githubusercontent.com/38081852/87336793-cbf5ec00-c518-11ea-960c-d6ff6aa1b177.png"></code>
 
 <div align=center>
 
@@ -57,3 +63,9 @@ I'm a 🎓 **Computer Engineer Student**, 🔋 **Full Stack Developer** and **Se
 ---
 
 ⭐️ From [x0n4d0](https://github.com/x0n4d0)
+
+<div align=center>
+
+[![HitCount](http://hits.dwyl.com/x0n4d0/x0n4d0.svg)](http://hits.dwyl.com/x0n4d0/x0n4d0) ![Followers](https://img.shields.io/github/followers/x0n4d0?style=social)
+
+</div>
