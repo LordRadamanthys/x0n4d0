@@ -7,10 +7,10 @@ I'm a 🎓 **Computer Engineer Student**, 🔋 **Full Stack Developer** and **Se
   
   - 🔭 **I’m currently working with:** **[TypeScript](https://www.typescriptlang.org/)** and **[React](https://reactjs.org/)**
   - 🌱 **I’m currently learning:** **UI Design** using **[Figma](https://www.figma.com/)** and **[React Native](https://reactnative.dev/)**
-  - 💬 **Ask me about:** 🔋 tech, ☕ coffee, 🎶 music, 🎸 instruments, 🎮 CS:GO, 🧑‍🍳 cooking, 🛹 skateboard, 📚 books
-  - ❤️ **Hobbies:** 🛹 skateboard, 🎸 play instruments, 🎶 listening to music all day, 📚 read books (especially those of psychology and fantasy), 🧑‍🍳 cook, 🎮 play CS:GO, 🌱 take care of the plants and 🌑 watch the moon
   - 😄 **Pronouns:** he / him
   - 😂 **Fun fact:** I can't program listening to the songs I love. For loving music so much
+  - 💬 **Ask me about:** 🔋 tech, ☕ coffee, 🎶 music, 🎸 instruments, 🎮 CS:GO, 🧑‍🍳 cooking, 🛹 skateboard, 📚 books
+  - ❤️ **Hobbies:** 🛹 skateboard, 🎸 play instruments, 🎶 listening to music all day, 📚 read books (especially those of psychology and fantasy), 🧑‍🍳 cook, 🎮 play CS:GO, 🌱 take care of the plants and 🌑 watch the moon
 
 <!-- - **Portfolio:** x0n4d0.dev/portifolio -->
 <!-- - **Blog:** x0n4d0.dev/blog -->
@@ -41,8 +41,6 @@ I'm a 🎓 **Computer Engineer Student**, 🔋 **Full Stack Developer** and **Se
 <code><img alt="Visual Studio Code" title="Visual Studio Code" height="25" src="https://user-images.githubusercontent.com/38081852/87336793-cbf5ec00-c518-11ea-960c-d6ff6aa1b177.png"></code>
 <code><img alt="Insomnia" title="Insomnia" height="25" src="https://user-images.githubusercontent.com/38081852/87548811-6a05c580-c683-11ea-99ad-465f97fc0e60.png"></code>
 <code><img alt="Docker" title="Docker" height="25" src="https://user-images.githubusercontent.com/38081852/87548752-565a5f00-c683-11ea-98bc-466626e09af8.png"></code>
-<code><img alt="Linux Manjaro" title="Linux Manjaro" height="25" src="https://user-images.githubusercontent.com/38081852/87548921-8f92cf00-c683-11ea-9776-4f79c6fd2272.png"></code>
-<code><img alt="Linux Ubuntu" title="Linux Ubuntu" height="25" src="https://user-images.githubusercontent.com/38081852/87548930-91f52900-c683-11ea-8ba1-783e0422dff5.png"></code>
 
 <div align=center>
 
@@ -67,8 +65,6 @@ I'm a 🎓 **Computer Engineer Student**, 🔋 **Full Stack Developer** and **Se
 <a href="https://api.whatsapp.com/send?phone=+5531975545286" target="_blank">
 <img width=50 src="https://user-images.githubusercontent.com/38081852/86829802-3b786100-c06b-11ea-9290-94a373b50d6f.png">
 </a>
-
-[![HitCount](http://hits.dwyl.com/x0n4d0/x0n4d0.svg)](http://hits.dwyl.com/x0n4d0/x0n4d0) ![Followers](https://img.shields.io/github/followers/x0n4d0?style=social)
 
 </div>
 
